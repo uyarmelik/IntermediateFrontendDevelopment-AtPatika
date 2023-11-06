@@ -1,0 +1,2 @@
+# Orta Seviye Frontend Web Development
+Bu repo [Patika](https://academy.patika.dev/tr) sitesindeki [Orta Seviye Frontend Web Development](https://academy.patika.dev/tr/paths/orta-seviye-frontend-web-development-patikasi) eğitiminin ödev kodlarını ve bitirme projelerini içermektedir. Ayrı klasörlerde [React](https://academy.patika.dev/tr/courses/react) ve [Redux](https://academy.patika.dev/tr/courses/redux) eğitimlerinin ödev kodları ve bitirme projeleri bulunmaktadır.
